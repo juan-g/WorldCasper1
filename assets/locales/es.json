@@ -1,5 +1,16 @@
 {
     "worldcasper1": {
+        "Back": "Volver",
+        "Newer Posts": "Artículos Siguientes",
+        "of": "de",
+        "Older Posts": "Artículos Anteriores",
+        "Page": "Página",
+        "Subscribe": "Suscríbete",
+        "Subscribe to": "Suscríbete a",
+        "Subscribed!": "¡Suscrito!",
+        "with the email address": "con el correo electrónico",
+        "Your email address": "Tu correo electrónico",
+        "You've successfully subscribed to": "Te has suscrito con éxito a",
         "A 1-post collection": "Una colección de 1 artículo",
         "A %-post collection": "Una colección de % artículos",
         "Close": "Cerrar",
