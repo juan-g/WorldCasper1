@@ -11,7 +11,7 @@ The 1.4 branch is Casper 1.4.
 
 The translatable branch is [i18n-translatable-frontend](https://github.com/juan-g/WorldCasper1/tree/i18n-translatable-frontend).
 
-For Casper 2.0 made translatable, see [WorldCasper2](https://github.com/juan-g/WorldCasper2/tree/i18n-translatable-frontend).
+For Casper 2.x made translatable, see [WorldCasper2](https://github.com/juan-g/WorldCasper2/tree/i18n-translatable-frontend).
 
 Details in Ghost's [content/translations/README.md](https://github.com/juan-g/Ghost/blob/i18n-translatable-frontend/content/translations/README.md).
 
