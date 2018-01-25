@@ -75,7 +75,7 @@
             {{!-- Email subscribe form at the bottom of the page --}}
             {{#if @labs.subscribers}}
             <section class="gh-subscribe">
-                <h3 class="gh-subscribe-title">{{t "Subscribe to"}} {{@blog.title}}</h3>
+                <h3 class="gh-subscribe-title">{{t "Subscribe to {blogtitle}" blogtitle=@blog.title}}</h3>
                 <p>{{t "Get the latest posts delivered right to your inbox"}}.</p>
                 {{subscribe_form placeholder=(t "Your email address")}}
                 <span class="gh-subscribe-rss">{{t "or subscribe"}} <a href="http://cloud.feedly.com/#subscription/feed/{{@blog.url}}/rss/">{{t "via RSS"}}</a> {{t "with Feedly!"}}</span>
