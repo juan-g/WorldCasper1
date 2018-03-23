@@ -1,6 +1,6 @@
 # WorldCasper1
 
-WorldCasper1 is Casper 1.4, [Ghost](http://github.com/tryghost/ghost/)'s default theme, made translatable into any language.
+WorldCasper1 is [Casper 1.4](https://github.com/TryGhost/Casper/tree/1.4), [Ghost](http://github.com/tryghost/ghost/)'s default theme, made translatable into any language.
 
 For example, in _.hbs_ theme templates:
 ```
